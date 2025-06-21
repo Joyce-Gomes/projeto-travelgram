@@ -1,4 +1,4 @@
-💻 Projeto: Travelgram
+💻 Projeto: Travelgram  
 Como parte dos estudos sobre Layouts, Evolução e CSS Flexbox, conclui 17 aulas ministradas pelo professor Mayk Brito, onde tive a oportunidade de reproduzir
 o projeto Travelgram — um exercício prático essencial para consolidar os conhecimentos adquiridos.
 
